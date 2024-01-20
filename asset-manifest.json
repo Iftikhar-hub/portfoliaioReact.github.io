@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfoliaioReact.github.io/static/css/main.95a115f9.css",
+    "main.js": "/portfoliaioReact.github.io/static/js/main.5edfe3bc.js",
+    "static/js/787.34411055.chunk.js": "/portfoliaioReact.github.io/static/js/787.34411055.chunk.js",
+    "static/media/hero-img.png": "/portfoliaioReact.github.io/static/media/hero-img.49aa2587df4141856aad.png",
+    "static/media/mobile_card_app.jpg": "/portfoliaioReact.github.io/static/media/mobile_card_app.b5acb1867e8b63e45a99.jpg",
+    "static/media/resturant_landing_page.jpg": "/portfoliaioReact.github.io/static/media/resturant_landing_page.cdd5ad32967846a1146b.jpg",
+    "static/media/financial_app_design.jpg": "/portfoliaioReact.github.io/static/media/financial_app_design.6228c184dacb2975ba93.jpg",
+    "static/media/essential_ui_icon.jpg": "/portfoliaioReact.github.io/static/media/essential_ui_icon.29fc7943a30cb250b7ab.jpg",
+    "static/media/brand_new_img.jpg": "/portfoliaioReact.github.io/static/media/brand_new_img.67ddde05eaada02f56de.jpg",
+    "static/media/hero-img-bg.svg": "/portfoliaioReact.github.io/static/media/hero-img-bg.47f134e546a8d095624907285f13d195.svg",
+    "static/media/logo-header.svg": "/portfoliaioReact.github.io/static/media/logo-header.0a17178c10a49451582ad950d4a2051f.svg",
+    "index.html": "/portfoliaioReact.github.io/index.html",
+    "main.95a115f9.css.map": "/portfoliaioReact.github.io/static/css/main.95a115f9.css.map",
+    "main.5edfe3bc.js.map": "/portfoliaioReact.github.io/static/js/main.5edfe3bc.js.map",
+    "787.34411055.chunk.js.map": "/portfoliaioReact.github.io/static/js/787.34411055.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95a115f9.css",
+    "static/js/main.5edfe3bc.js"
+  ]
+}
